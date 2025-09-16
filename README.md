@@ -47,7 +47,6 @@
 
 ### 📞 Contact
 
-- 📱 Phone: +86-15547970686  
 - 📧 Email: ZichenTian1024@outlook.com  
 - 💼 GitHub: [github.com/Togetabetterplace](https://www.github.com/Togetabetterplace)  
 - 🎯 Interests: LLM · Post-training · RL · Agent
