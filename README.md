@@ -6,11 +6,12 @@
 
 ### 📚 Education
 
-- **Central South University (CSU)** — B.S. in Computer Science, Turing Class  
-  Sept 2021 – June 2025 
-
-- **The Chinese University of Hong Kong (CUHK)** — M.Sc. in Artificial Intelligence
-  Aug 2025 – June 2027 
+> - **Central South University (CSU)** — B.S. in Computer Science, Turing Class  
+> Sept 2021 – June 2025 
+>
+> - **The Chinese University of Hong Kong (CUHK)** — M.Sc. in Artificial Intelligence
+> Aug 2025 – June 2027 
+>
 
 ---
 
