@@ -4,8 +4,7 @@
 
 ### LLM Researcher · Agent Builder
 
-I work on **LLM post-training**, **agentic reinforcement learning**, **coding agents**,  
-**multi-turn tool use**, and **large-scale data synthesis**.
+I work on **LLM post-training**, **agentic reinforcement learning**, **coding agents**, and **Agentic data synthesis**.
 
 <p>
   <a href="mailto:zichentian1024@outlook.com">
@@ -83,10 +82,7 @@ Data Synthesis  →  Post-training  →  Agent Interaction  →  Evaluation  →
 2. **SWEPATCHTEST: Evaluating Software Tests Beyond Reproduction**  
    Hua Lu, Pengcheng Wang, Han Li, **Zichen Tian** *(Co-First Author)*, et al. · **ICLR 2027, under review**  
    [Paper](https://arxiv.org/pdf/2610.18004)
-
-3. **SWE-OPD: Enhancing Agentic Coding via On-Policy Distillation**  
-   Yuhang He, et al., including **Zichen Tian** · **ICLR 2027, under review**
-
+   
 4. **Towards Lean-grounded Mathematical Reasoning**  
    Zhouliang Yu, Shiyuan Zhang, **Zichen Tian**, et al. · **ICLR 2027, under review**
 
@@ -101,14 +97,6 @@ Data Synthesis  →  Post-training  →  Agent Interaction  →  Evaluation  →
 | **The Chinese University of Hong Kong** | M.Sc. in Artificial Intelligence | Sep 2025 – Mar 2027 |
 | **Central South University** | B.Eng. in Computer Science and Technology, Excellence Program *(Turing Class)* | Sep 2021 – Jun 2025 |
 
-## 🛠️ Technical Skills
-
-| Area | Technologies |
-|---|---|
-| **LLM & RL** | PyTorch, VeRL, Open-R1, Transformers, vLLM, LlamaFactory, Ray |
-| **Languages** | Python, Java, C/C++, Shell, SQL |
-| **Agents & Systems** | LangGraph, Docker, Linux, Git |
-| **Training** | Continual Pre-training, SFT, DPO, GRPO, PPO, Reward Shaping |
 
 ## 🤝 Let's Connect
 
@@ -116,7 +104,6 @@ I'm interested in research and engineering conversations around LLM post-trainin
 
 - 📧 **Email:** [zichentian1024@outlook.com](mailto:zichentian1024@outlook.com)
 - 💻 **GitHub:** [Togetabetterplace](https://github.com/Togetabetterplace)
-- 💬 **WeChat:** `historyofhuman`
 
 <div align="center">
 
